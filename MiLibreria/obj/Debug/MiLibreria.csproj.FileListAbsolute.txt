@@ -1,0 +1,6 @@
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\obj\Debug\MiLibreria.csprojAssemblyReference.cache
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\obj\Debug\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Users\1ZW05LA_RS4\source\repos\LotoDental\MiLibreria\obj\Debug\MiLibreria.pdb
